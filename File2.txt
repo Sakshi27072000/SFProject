@@ -1,8 +1,9 @@
 
 
 
-change for WI4 by teammate for rebase
+0.change for WI4 by teammate for rebase
 
 1.to fix the bug1.
-.change for rebase on CR2.
+2.change for rebase on CR2.
+3.change on remote master by team mate for CR1 for pull test.
 
