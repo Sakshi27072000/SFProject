@@ -1,10 +1,12 @@
 Hello World!
 
 
-change:-done by team mate for WI3.
+change1:-done by team mate for WI3.
 
-change: -added for login feature.
-change:-for bug2
-change: for stash in WI5
-change :- for WI6 on local master to test normal
+change2: -added for login feature.
+change3:-for bug2
+change4: for stash in WI5
+change5:- for WI6 on local master to test normal
+change6:-by teammate on remote master for bug3
+
 
